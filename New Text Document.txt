@@ -1,0 +1,5 @@
+"ip":"FusionGamer.aternos.me"
+
+"PORT":"46914"
+
+"name":the server is running 24/7 by me
